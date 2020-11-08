@@ -1,2 +1,3 @@
-# about-abiriadev
-This repository is abiriadev's introductory document!
+# Heelo, I'm Abiria!
+
+I am student interested in typescript.
