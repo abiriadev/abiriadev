@@ -1,4 +1,4 @@
-# Heelo, I'm Abiria!
+# Hello, I'm Abiria!
 
 I am student interested in typescript.
 
