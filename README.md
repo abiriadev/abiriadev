@@ -210,17 +210,20 @@
       src="https://img.shields.io/badge/abiria.dev@gmail.com-444444?style=flat-square&logo=Gmail&logoColor=white"
   /></a>
 </p>
-<p align="center"></p>
 
-<center>
+<p align="center">
+  <img
+    src="https://img.shields.io/twitter/follow/Abiria14?color=%231DA1F2&logo=twitter&style=for-the-badge"
+  />
+</p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Abiria14?color=%231DA1F2&logo=twitter&style=for-the-badge)
-<center>
+<p>
+  <br />
+  <br />
+</p>
 
-<br>
-<br>
-
-<center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabiriadev&count_bg=%23976DF2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-</center>
+<p align="center">
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabiriadev&count_bg=%23976DF2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"
+  />
+</p>
