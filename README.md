@@ -3,7 +3,7 @@
 ![Abiria's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiriadev&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2&include_all_commits=true&custom_title=Abiria's%20Github%20Stats%20%E2%9D%A4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiriadev&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2)](https://github.com/abiriadev?tab=repositories)
 [![Abiria's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abiria&langs_count=4&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2&layout=compact)](https://wakatime.com/@Abiria)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abiriadev&theme=nightowl&background=FFFFFF00&hide_border=true&ring=976DF2&fire=976DF2&sideNums=976DF2&sideLabels=976DF2&stroke=DDDDDD77)](https://github.com/abiriadev)
+<a href="https://github.com/abiriadev"><img src="https://github-readme-streak-stats.herokuapp.com?user=abiriadev&theme=nightowl&background=FFFFFF00&hide_border=true&ring=976DF2&fire=976DF2&sideNums=976DF2&sideLabels=976DF2&stroke=DDDDDD77" width="350"></a>
 
 <h3 align="center">
   a student learning about web backend development from South Korea
