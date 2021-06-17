@@ -165,19 +165,25 @@
 
 <br />
 
-<h3 align="center">about MSG</h3>
+<h2 align="center">about MSG</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abiriadev&repo=MSG&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2)](https://github.com/abiriadev/MSG)
 
-<p align="center">MSG is a framework for building discord bot applications more powerful and adaptable</p>
+<p align="center">
 
-- based on [discord.js](https://github.com/discordjs/discord.js)
+> MSG is a framework for building discord bot applications more powerful and adaptable
 
-- more extensibility
+</p>
 
-- no more repeating meaningless code
+- ❤️ based on [discord.js](https://github.com/discordjs/discord.js)
 
-- provide boilerplate code
+- 🔌 more extensibility by plugins
+
+- ♻️ no more repeating meaningless code
+
+- ⚡ provide boilerplate code as [generator-msg](https://github.com/abiriadev/generator-msg)
+
+<h5 align="center">are you interested?<br><a href="https://github.com/abiriadev/MSG">learn more about it!</a></h5>
 
 <br>
 
