@@ -182,40 +182,189 @@
 <br>
 
 <h3 align="center">🍒 Connect with me 🍒</h3>
-<p align="center">
+<p align="left">
   <a href="https://codepen.io/abiriadev" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="@abiriadev"
-      height="30"
-      width="40"
+      alt="abiriadev"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://dev.to/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+      alt="abiria"
+      height="36"
+      width="48"
   /></a>
   <a href="https://twitter.com/abiria14" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="abiria14"
-      height="30"
-      width="40"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://linkedin.com/in/hunee-park-0a1144215" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="hunee-park-0a1144215"
+      height="36"
+      width="48"
   /></a>
   <a href="https://stackoverflow.com/users/16246435" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="16246435"
-      height="30"
-      width="40"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://codesandbox.com/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"
+      alt="abiria"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://kaggle.com/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="abiria"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://fb.com/100052119653000" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="100052119653000"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://instagram.com/abiria.dev" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="abiria.dev"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://dribbble.com/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
+      alt="abiria"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.behance.net/huneepark" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+      alt="huneepark"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://medium.com/@oro3673" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="@oro3673"
+      height="36"
+      width="48"
+  /></a>
+  <a
+    href="https://www.youtube.com/channel/UCKLXLD6E_omTZLZEbwZ7n8w"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="youtube channel"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.codechef.com/users/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+      alt="abiria"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.hackerrank.com/abiria_dev" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="abiria_dev"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://codeforces.com/profile/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"
+      alt="abiria"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.leetcode.com/abiriadev" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="abiriadev"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.hackerearth.com/@abiria.dev" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+      alt="@abiria.dev"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://auth.geeksforgeeks.org/user/oro3673/profile" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      alt="oro3673/profile"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://www.topcoder.com/members/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg"
+      alt="abiria"
+      height="36"
+      width="48"
   /></a>
   <a href="https://discord.gg/coding-lab" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="coding-lab"
-      height="30"
-      width="40"
+      height="36"
+      width="48"
+  /></a>
+  <a href="https://rss.com/podcasts/abiria" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
+      alt="https://media.rss.com/abiria/feed.xml"
+      height="36"
+      width="48"
   /></a>
 </p>
+
+<br>
+
 <p align="center">
   <a href="mailto:oro3673@gmail.com" target="_blank"
     ><img
@@ -228,9 +377,18 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/twitter/follow/Abiria14?color=%231DA1F2&logo=twitter&style=for-the-badge"
-  />
+  <a href="https://twitter.com/abiria14" target="_blank">
+    <img
+      src="https://img.shields.io/twitter/follow/Abiria14?color=%231DA1F2&logo=twitter&style=for-the-badge"
+  /></a>
+</p>
+<p align="center">
+  <a href="https://discord.gg/coding-lab" target="_blank">
+    <img
+      alt="Discord"
+      src="https://img.shields.io/discord/687271752224735233?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff"
+    />
+  </a>
 </p>
 
 <p>
@@ -243,3 +401,5 @@
     src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabiriadev&count_bg=%23976DF2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"
   />
 </p>
+
+
