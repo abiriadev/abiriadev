@@ -183,7 +183,7 @@
 
 - ⚡ provide boilerplate code as [generator-msg](https://github.com/abiriadev/generator-msg)
 
-<h6 align="center">are you interested?<br><a href="https://github.com/abiriadev/MSG">learn more about it!</a></h6>
+<h4 align="center">are you interested?<br><a href="https://github.com/abiriadev/MSG">learn more about it!</a></h4>
 
 <br>
 
