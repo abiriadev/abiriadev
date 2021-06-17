@@ -181,8 +181,8 @@
 
 <br>
 
-<h3 align="center">🍒 Connect with me 🍒</h3>
-<p align="left">
+<h3 align="center">🍒 Contact me 🍒</h3>
+<p align="center">
   <a href="https://codepen.io/abiriadev" target="blank"
     ><img
       align="center"
