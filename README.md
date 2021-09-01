@@ -351,7 +351,7 @@
       height="36"
       width="48"
   /></a>
-  <a href="https://discord.gg/coding-lab" target="blank"
+  <a href="https://discord.gg/GJqXUsp3Hp" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -389,7 +389,7 @@
   /></a>
 </p>
 <p align="center">
-  <a href="https://discord.gg/coding-lab" target="_blank">
+  <a href="https://discord.gg/GJqXUsp3Hp" target="_blank">
     <img
       alt="Discord"
       src="https://img.shields.io/discord/687271752224735233?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff"
