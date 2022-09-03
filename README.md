@@ -1,29 +1,7 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/72962900/122442957-11008900-cfda-11eb-8c2e-564f6c48ee70.png" alt="butterfly-half-minimal"></p>
-
 ![Abiria's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiriadev&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2&include_all_commits=true&custom_title=Abiria's%20Github%20Stats%20%E2%9D%A4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiriadev&count_private=true&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2)](https://github.com/abiriadev?tab=repositories)
 [![Abiria's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abiria&langs_count=4&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2&layout=compact)](https://wakatime.com/@Abiria)
 <a href="https://github.com/abiriadev"><img src="https://github-readme-streak-stats.herokuapp.com?user=abiriadev&theme=nightowl&background=FFFFFF00&hide_border=true&ring=976DF2&fire=976DF2&sideNums=976DF2&sideLabels=976DF2&stroke=DDDDDD77" width="350"></a>
-
-<h3 align="center">
-  a student learning about web backend development from South Korea
-</h3>
-
-- 🔭 I’m currently working on [MSG framework](https://github.com/abiriadev/MSG)
-
-- 🌱 I’m currently learning [yeoman](https://yeoman.io/)
-
-- 👯 I’m looking to collaborate on [Coding lab rules](https://github.com/coding-1ab/CodingLab-rules)
-
-- 🤝 I’m looking for help with [generator-MSG](https://github.com/abiriadev/generator-msg)
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/abiriadev)
-
-- 💬 Ask me about books and music, and also **everything!**
-
-- 📫 contact me to [abiria.dev@gmail.com](mailto:abiria.dev@gmail.com)
-
-- ⚡ finally **hello, world!**
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -164,26 +142,6 @@
 </p>
 
 <br />
-
-<h2 align="center">about MSG</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abiriadev&repo=MSG&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=976DF2)](https://github.com/abiriadev/MSG)
-
-<p align="center">
-
-> MSG is a framework for building discord bot applications more powerful and adaptable
-
-</p>
-
-- ❤️ based on [discord.js](https://github.com/discordjs/discord.js)
-
-- 🔌 more extensibility by plugins
-
-- ♻️ no more repeating meaningless code
-
-- ⚡ provide boilerplate code as [generator-msg](https://github.com/abiriadev/generator-msg)
-
-<h4 align="center">are you interested?<br><a href="https://github.com/abiriadev/MSG">learn more about it!</a></h4>
 
 <br>
 
