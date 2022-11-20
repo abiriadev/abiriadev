@@ -45,7 +45,7 @@
 </div>
 <br />
 <h3 align="center">~ :bust_in_silhouette: 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :bust_in_silhouette: ~</h3>
-<p align="center">:telescope: I’m currently working as Backend developer</p>
+<p align="center">:telescope: I’m currently working as web full stack developer</p>
 <p align="center">
     :seedling: I’m currently learning Flutter, Java, Android and CSS-in-JS
 </p>
