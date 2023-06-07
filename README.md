@@ -47,7 +47,7 @@
             <!-- prettier-ignore-attribute -->
             <source
                 media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats-abiriadev.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9e76df&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
+                srcset="https://github-readme-stats-abiriadev.vercel.app/api/wakatime/?username=Abiria&range=all_time&title_color=9e76df&text_color=b6c1ce&bg_color=00000000&hide_border=true&langs_count=20&layout=compact&hide=other"
             />
             <!-- prettier-ignore-attribute -->
             <source
