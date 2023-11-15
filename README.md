@@ -639,7 +639,7 @@
         />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://discord.gg/GJqXUsp3Hp" target="_blank">
+    <a href="https://discord.gg/coding-lab-687271752224735233" target="_blank">
         <img
             alt="Coding Lab discord server"
             src="https://img.shields.io/discord/687271752224735233?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff"
