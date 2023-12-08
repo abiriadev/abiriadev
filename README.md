@@ -70,9 +70,9 @@
 <br />
 <br />
 <h3 align="center">~ :bust_in_silhouette: 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :bust_in_silhouette: ~</h3>
-<p align="center">:telescope: I’m currently working as web full stack developer</p>
+<p align="center">:telescope: I’m currently working on <a href="https://github.com/abiriadev/goggle">Goggle</a> project</p>
 <p align="center">
-    :seedling: I’m currently learning Flutter, Java, Android and CSS-in-JS
+    :seedling: I’m currently learning Flutter, Go, Haskell and CSS-in-JS
 </p>
 <p align="center">
     :dancers: I’m looking to collaborate on interesting open source projects
@@ -148,6 +148,10 @@
         src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
         alt="Yarn"
     />
+    <img
+        src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"
+        alt="MUI"
+    />
     <br />
     <img
         src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
@@ -216,6 +220,10 @@
         <img
             src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
             alt="Redis"
+        />
+        <img
+            src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"
+            alt="InfluxDB"
         />
         <img
             src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
@@ -309,6 +317,23 @@
         <img
             src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"
             alt="LaTeX"
+        />
+        <br />
+        <img
+            src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"
+            alt="Apache Groovy"
+        />
+        <img
+            src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+            alt="Go"
+        />
+        <img
+            src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+            alt="Java"
+        />
+        <img
+            src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"
+            alt="Zig"
         />
         <br />
         <img
